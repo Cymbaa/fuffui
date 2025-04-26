@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "FuturaCondExtraBold";
+  src: url("futura-condensed-extra-black.woff2") format("woff2"),
+       url("futura-condensed-extra-black.woff") format("woff"),
+       url("futura-condensed-extra-black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+} 
