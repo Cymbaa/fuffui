@@ -1,0 +1,22 @@
+:root {
+  /* Colors */
+  --bg-primary: #282a2f;
+  --bg-secondary: #303236;
+  --text-primary: #d4d0cf;
+  --accent-color: #d56848;
+  
+  /* Layout */
+  --header-height: 40px;
+  --sidebar-width: 60px;
+  
+  /* Shadows */
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  
+  /* Transitions */
+  --transition-speed: 0.2s;
+}
+
+/* Force the variables to be applied */
+* {
+  color: var(--text-primary);
+} 
